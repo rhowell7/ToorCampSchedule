@@ -1,0 +1,947 @@
+BEGIN:VCALENDAR
+PRODID;X-RICAL-TZSOURCE=TZINFO:-//com.denhaven2/NONSGML ri_cal gem//EN
+CALSCALE:GREGORIAN
+VERSION:2.0
+BEGIN:VTIMEZONE
+TZID;X-RICAL-TZSOURCE=TZINFO:America/Los_Angeles
+BEGIN:DAYLIGHT
+DTSTART:20180311T020000
+RDATE:20180311T020000
+TZOFFSETFROM:-0800
+TZOFFSETTO:-0700
+TZNAME:PDT
+END:DAYLIGHT
+END:VTIMEZONE
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180624T110000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180624T090000
+DTSTAMP;VALUE=DATE-TIME:20180529T201758Z
+UID:b348cc2b-d6f7-4c28-87be-cafa28360d8b@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/70
+SUMMARY: Tear down and Move out - 
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T220000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T210000
+DTSTAMP;VALUE=DATE-TIME:20180614T055641Z
+UID:f8c53e32-b9bb-4ebc-b5a4-1a7d1647fe7b@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/86
+SUMMARY:ANSI Drink and Draw - 
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T162000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T160000
+DTSTAMP;VALUE=DATE-TIME:20180606T060055Z
+UID:86ff0688-6d23-455c-8275-f5d8a91d79c3@frab.toorcon.net
+DESCRIPTION:Recently diagnosed with complex PTSD\, I've been approaching 
+ my brain and body like I would an engineering problem. I'll walk through
+  my symptoms\, the core feeling of feeling unsafe that I found\, and the
+  body-based therapies that have worked\, with plenty of citations into r
+ ecent trauma research.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/58
+SUMMARY:Addressing PTSD in the Body - Jenner Hanni
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T165000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T160000
+DTSTAMP;VALUE=DATE-TIME:20180529T033712Z
+UID:b4b2124a-815a-416b-a4fd-c3d790aeaf4c@frab.toorcon.net
+DESCRIPTION:My journey to build and sail a 12 foot live aboard sailboat f
+ rom a pile of CNC cut plywood\, a few gallons of epoxy and a lot of stre
+ ss.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/38
+SUMMARY:Building and sailing a 12 foot sailboat - Jeff Costlow
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180620T180000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180620T150000
+DTSTAMP;VALUE=DATE-TIME:20180529T201355Z
+UID:be8b9860-7fbf-4ab0-9bbf-9fc3c8ba0e6b@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/69
+SUMMARY:Cabin\, Yurt\, Dome\, and Private Campsite Check – in - 
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180624T113000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180624T110000
+DTSTAMP;VALUE=DATE-TIME:20180529T201901Z
+UID:3bd531d1-b9ac-4312-a8ba-2e48373e344f@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/71
+SUMMARY:Cabin\, Yurt\, Dome\, and Private Campsite Check – out - 
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T160000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T130000
+DTSTAMP;VALUE=DATE-TIME:20180529T034141Z
+UID:6117008a-f403-4505-a1bb-8c43892eaa24@frab.toorcon.net
+DESCRIPTION:Car Hacking Camp.\n\nHere at the CHV-CHC we want you to bring
+  your car so we/you can hack it.  Are goal will be to send commands to t
+ he vehicle to enable lights and sounds.  When we've done enough vehicles
+ \, we will enable a Car Disco.  Controlling the vehicle's lighting and a
+ udio systems.  We have lots of ideas\, hopefully one of them works!\n\nP
+ lease\, if you bring a car\, especially if it's a rental\, please let us
+  hack it.  We'll bring some tools work with you to hack your car.  Then 
+ we'll make a disco out of it.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/56
+SUMMARY:Car Hacking Camp - By the Car Hacking Village - carFUcar
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T180000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T150000
+DTSTAMP;VALUE=DATE-TIME:20180603T144236Z
+UID:d950a84d-3ebf-40f7-a2b3-0289a1de1ddd@frab.toorcon.net
+DESCRIPTION:Car Hacking Camp.\n\nHere at the CHV-CHC we want you to bring
+  your car so we/you can hack it.  Are goal will be to send commands to t
+ he vehicle to enable lights and sounds.  When we've done enough vehicles
+ \, we will enable a Car Disco.  Controlling the vehicle's lighting and a
+ udio systems.  We have lots of ideas\, hopefully one of them works!\n\nP
+ lease\, if you bring a car\, especially if it's a rental\, please let us
+  hack it.  We'll bring some tools work with you to hack your car.  Then 
+ we'll make a disco out of it.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/72
+SUMMARY:Car Hacking Camp - By the Car Hacking Village - carFUcar
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T130000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T120000
+DTSTAMP;VALUE=DATE-TIME:20180529T033820Z
+UID:be68aa2d-0d13-40f9-8c23-5fdcf59f1bbf@frab.toorcon.net
+DESCRIPTION:This will be a walk through of working up a graphic\, and con
+ verting it into the 2.5D G-Code needed to to drive a Maslow CNC router.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/44
+SUMMARY:Carving with a Maslow CNC - Curtis Mack
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T190000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T183000
+DTSTAMP;VALUE=DATE-TIME:20180606T060725Z
+UID:77e52ef9-e9a3-41d7-a9bc-8d8e8e537735@frab.toorcon.net
+DESCRIPTION:Come see the winners of Titanium Chef\, The Stupid Hackathon\
+ , and other events around camp. We'll also be giving an overview of our 
+ camp infrastructure and thanking everyone who helped make the camp possi
+ ble!
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/53
+SUMMARY:Closing Remarks - David Hulton
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T190000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T170000
+DTSTAMP;VALUE=DATE-TIME:20180608T212225Z
+UID:356cad47-95c3-4226-9be5-f733933825b7@frab.toorcon.net
+DESCRIPTION:Sit down and teach the basics for password cracking using Has
+ hcat and John the Ripper. Bring a laptop (or desktop) with a GPU\, and w
+ e can get started on doing some basic password cracking.\n\nWe will also
+  do some basic Wireless attacks for WPA2\, and load those hashes into ou
+ r password cracking rig.\n\nYou will need root or Administrator access o
+ n your computer\, and have the ability to install software- or use a VM 
+ with access to the GPU.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/50
+SUMMARY:Cracking Hashes Workshop - Beginner - David Bryan - VideoMan
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T145000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T140000
+DTSTAMP;VALUE=DATE-TIME:20180529T033557Z
+UID:9f5896ef-e769-49c2-b453-44ca2666b132@frab.toorcon.net
+DESCRIPTION:How to use the versatile OSC protocol to create your own cont
+ ext-sensitive on-the-fly debug UI for hardware and software projects.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/30
+SUMMARY:DIY OSC Debug Multitool App - Alexandre Elsayad
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T000000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T233000
+DTSTAMP;VALUE=DATE-TIME:20180604T171719Z
+UID:677201d6-2c72-47be-8755-d65de7834277@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/74
+SUMMARY:DJ Joey Lawrence - 
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180624T020000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T220000
+DTSTAMP;VALUE=DATE-TIME:20180529T194920Z
+UID:a4601d2c-e693-48b2-8020-b38b5ad7be14@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/67
+SUMMARY:DJ Keith Myers & Friends - 
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T230000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T220000
+DTSTAMP;VALUE=DATE-TIME:20180606T034955Z
+UID:0ab8e3bf-0971-4c71-8df5-98429af29f8b@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/75
+SUMMARY:DJ Zach Archer - 
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T125000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T120000
+DTSTAMP;VALUE=DATE-TIME:20180606T061810Z
+UID:0d54a4e7-25e3-486f-84be-0f557d54c512@frab.toorcon.net
+DESCRIPTION:ELF executables are often statically linked for COTS binaries
+  to avoid dependency issues and to keep things simple. After all\, why n
+ ot build a binary as statically linked? ASLR and RelRO (read-only reloca
+ tions) are two extremely important binary mitigation techniques that are
+  presently incompatible with statically linked binaries. This talk prese
+ nts the surprisingly dangerous attack surface of statically linked execu
+ tables and a solution that demonstrates working ASLR and RELRO with stat
+ ically linked executables by using binary instrumentation techniques. 
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/12
+SUMMARY:Demystifying statically linked ELF security mitigations-- with bi
+ nary instrumentation techniques - elfmaster
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T135000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T133000
+DTSTAMP;VALUE=DATE-TIME:20180606T060022Z
+UID:c3d0fdfa-50a5-4511-b15b-76d19fd5708b@frab.toorcon.net
+DESCRIPTION:We grossly underestimate just how much multidimensional data 
+ we process as a human\, for years\, that contributes to conscious as wel
+ l as subconscious\, automated learning\, in addition to contextual and b
+ ackground knowledge human have gathered evolutionarily. The disconnect b
+ etween this realization and what we think should be enough for a machine
+  to “learn” in the same way as a human but within much faster timeframe 
+ and less data creates unrealistic expectations from ML and machines that
+  causes an inaccurate understanding that machines are inherently stupid.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/23
+SUMMARY:Demystifying the state of machine learning: why are machines stil
+ l stupid? … or are they? - Ren
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T145000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T143000
+DTSTAMP;VALUE=DATE-TIME:20180606T060040Z
+UID:c0e33315-e0cc-4101-900a-f56dd64f5548@frab.toorcon.net
+DESCRIPTION:In the last year\, I’ve found some pretty stupid security mis
+ takes. Blatantly overlooked controls\, or flat out lazy system admins. I
+  will show real-world examples of misuse & abuse\, and improper data han
+ dling of passwords inside application code. When talking about the secur
+ ity of a system as a whole\, we must remember a breech in one system\, c
+ an lead to a breach on another system because of the implicit trust rela
+ tionships we build to get the job done.\n\nI will cover how we pulled do
+ wn 1.2M hashes and cracked them and what controls were missed\, and how 
+ to prevent it from happening again.\n
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/49
+SUMMARY:Developers\, developers\, developers. - David Bryan - VideoMan
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T152000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T150000
+DTSTAMP;VALUE=DATE-TIME:20180606T060044Z
+UID:cf59bf19-948c-4d34-8a9f-410f36663098@frab.toorcon.net
+DESCRIPTION:Rootkits\, the most pervasive of backdoors\, are the final st
+ ep in post-exploitation. This talk will tour the fundamentals of Linux k
+ ernel development and the anatomy of an LKM rootkits by building one fro
+ m scratch. The talk will explore the blackhat techniques used to subvert
+  the kernel\, hook system calls\, and hide from user space. We'll look a
+ t the effectiveness and strategies for rootkit detection and discuss the
+  security implications that bridge user and kernel space. 
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/55
+SUMMARY:Developing a Linux Rootkit - Marcus Hodges
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T132000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T130000
+DTSTAMP;VALUE=DATE-TIME:20180606T060013Z
+UID:c4754487-2e38-4d0c-aa97-a1d8b6180016@frab.toorcon.net
+DESCRIPTION:Entropy is a measurement of the amount of randomness in a sys
+ tem. All systems need entropy to run in a secure fashion. We'll do a dee
+ p dive into entropy\; what entropy is\, how it's used\, and how it's gen
+ erated and kept in a pool in the linux kernel. We'll also give some impo
+ rtant safety tips.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/39
+SUMMARY:Entropy - Jeff Costlow
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T150000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T130000
+DTSTAMP;VALUE=DATE-TIME:20180605T171257Z
+UID:45e592c8-6cd6-4a02-8bb8-f7c70ffe20d2@frab.toorcon.net
+DESCRIPTION:Do you want custom clothing\, or the perfect backpack\, or a 
+ matrix screensaver print slipcover for your bitcoin mining rig? Do you w
+ ant to make it yourself? After this talk you'll know enough to go practi
+ ce your sewing skills\, design your own patterns\, and generally make st
+ uff!
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/41
+SUMMARY:FABRICation - edunham
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T133000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T130000
+DTSTAMP;VALUE=DATE-TIME:20180618T020644Z
+UID:5001f062-0737-42cc-9ed2-91adcea24eac@frab.toorcon.net
+DESCRIPTION:Developers frequently commit secrets to source code\, and som
+ etimes push secrets to package managers. These secrets often leak out in
+ to the public either through accidental source code disclosure\, or inte
+ ntional source code disclosure. TruffleHog is a tool I wrote to help ide
+ ntify if any secrets live in source code\, or package managers. It goes 
+ through old history to find secrets that may have been buried.\n\nI also
+  recently released a new tool called SantaHog\, that goes through packag
+ es in package managers and does the same.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/33
+SUMMARY:Finding secrets in source code with TruffleHog - Dylan
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T163000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T160000
+DTSTAMP;VALUE=DATE-TIME:20180529T035303Z
+UID:81a1863b-7679-411e-b94a-17f8e8fff263@frab.toorcon.net
+DESCRIPTION:In this workshop you will learn about how to use high voltage
+  to make wood burnings called lichtenberg figures. Everyone will get rea
+ l world experience working with high voltage.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/60
+SUMMARY:Fun with high voltage - Will C
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T163000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T160000
+DTSTAMP;VALUE=DATE-TIME:20180529T033509Z
+UID:e5d559e7-16be-407d-9cf6-bb051f98f6f3@frab.toorcon.net
+DESCRIPTION:In this workshop you will learn about how to use high voltage
+  to make wood burnings called lichtenberg figures. Everyone will get rea
+ l world experience working with high voltage.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/26
+SUMMARY:Fun with high voltage - Will C
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T163000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T160000
+DTSTAMP;VALUE=DATE-TIME:20180529T035614Z
+UID:525fb7d8-7b8d-4383-b689-1e676e9c8305@frab.toorcon.net
+DESCRIPTION:In this workshop you will learn about how to use high voltage
+  to make wood burnings called lichtenberg figures. Everyone will get rea
+ l world experience working with high voltage.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/61
+SUMMARY:Fun with high voltage - Will C
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180620T150000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180620T090000
+DTSTAMP;VALUE=DATE-TIME:20180529T202010Z
+UID:4cdf5552-a4aa-4bf0-8229-0bb35e6e0b95@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/68
+SUMMARY:General Camping Move-in - 
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T163000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T160000
+DTSTAMP;VALUE=DATE-TIME:20180618T020724Z
+UID:de661bda-6a52-4da1-97a0-7fda981e8968@frab.toorcon.net
+DESCRIPTION:A few new features of Javascript that have come out in the la
+ st couple years have made it easier for sophisticated threat actors to c
+ raft Javascript payloads that target internal network vulnerabilities.\n
+ \nThese vulnerabilities are more traditionally seen as means to move lat
+ erally once an attacker has a foothold\, however I will demonstrate here
+  leveraging a few modern browser features and modern reconnaissance tech
+ niques\, these internal assets are far more accessible to attackers by s
+ imple getting a victim to render untrusted HTML/Javascript from external
+  sources.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/32
+SUMMARY:Getting Shells From Javascript - Dylan
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T200000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T170000
+DTSTAMP;VALUE=DATE-TIME:20180606T055426Z
+UID:b3b4d88b-68bc-46c6-9cec-173d39be5673@frab.toorcon.net
+DESCRIPTION:This is an in-person\, hands-on version of "Getting To Blinky
+ "\, an online course series that has taught thousands to use the free an
+ d open source electronics CAD program\, KiCad. This would be a "digital 
+ firefly" version of that course which showcases how to create a blinking
+  circuit. This would include getting acquainted with the design tool\, i
+ ncluding how to add customizable artwork to a Printed Circuit Board (PCB
+ ). By the end\, attendees will be able to actually order a low cost PCB 
+ from online sources.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/11
+SUMMARY:Getting to Blinky - Chris Gammell
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T200000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T170000
+DTSTAMP;VALUE=DATE-TIME:20180529T033532Z
+UID:675a9f81-a3fc-4a07-b9cc-ec394e316891@frab.toorcon.net
+DESCRIPTION:AF7MH\, K7FP\, NQ1E\, and some other accredited volunteers ho
+ ld a LaurelVEC ham radio session.  It's completely free\, and we offer T
+ echnician\, General\, and Extra exams.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/28
+SUMMARY:Ham Test - Falcon Darkstar Momot
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T155000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T150000
+DTSTAMP;VALUE=DATE-TIME:20180529T033119Z
+UID:2c8d985f-07e9-4ff3-b3bd-7885e605c747@frab.toorcon.net
+DESCRIPTION:Designing circuits and laying out a printed circuit board (PC
+ B) can be a complicated and intensive process. It also happens to be a v
+ ery expensive process as well\, which is why there are many shortcuts an
+ d tricks that design engineers use to cut down cost and time of developm
+ ent. Being aware of these shortcuts and tricks can also save time when r
+ everse engineering hardware. Implementing security and countermeasures o
+ n PCBs are the last\, if not ever\, a priority for design engineers. In 
+ this presentation I will point out where there are some fundamental aspe
+ cts of the hardware design engineering process and being aware of them c
+ an directly lead to finding vulnerabilities in hardware.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/6
+SUMMARY:Hardware REverse Psychology - Jeremy Hong
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T235000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T230000
+DTSTAMP;VALUE=DATE-TIME:20180606T035000Z
+UID:b79338a7-de5b-4d11-a012-1f600ac25ce5@frab.toorcon.net
+DESCRIPTION:Music videos and visual effects try to capture and enhance th
+ e feeling of the music you're listening to\, but what if the visuals act
+ ually were the music? Jerobeam Fenderson blends audio and visual with hi
+ s mind-blowing experience called Oscilloscope Music.\n\nOscilloscopes ar
+ e test equipment used to measure voltages for debugging electronics syst
+ ems. Older vintage analog oscilloscopes have an "XY mode" which plots vo
+ ltages of 2 channels on a display. Over the years people have hacked tog
+ ether video games and other demos abusing this feature to display graphi
+ cs\, but Jerobeam Fenderson is the first to take this form of art to ano
+ ther level by doing it audio signals to create a whole new form of perfo
+ rmance art.\n \nAlthough the idea of “seeing music” is hard to grapple w
+ ith\, the close correlation between image and sound makes for an immersi
+ ve sensory experience. Minimalistic green lines form abstract lissajous 
+ shapes that mutate into complex vector graphics\, using the left and rig
+ ht audio channels as X and Y coordinates. Oscilloscope Music turns the t
+ ransformation of abstract concepts into something tangible that works on
+  an emotional level outside of its technical context. Using this approac
+ h\, math doesn’t seem like the dry concept it is often seen as\, but rat
+ her a key to the fundamental principles of nature.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/66
+SUMMARY:Jerobeam Fenderson: Oscilloscope Music - 
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T125000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T120000
+DTSTAMP;VALUE=DATE-TIME:20180529T033255Z
+UID:e53e02da-3aa7-41fe-896d-cfa49543d8f2@frab.toorcon.net
+DESCRIPTION:As we all know crème brûlée is the backbone of any good hacke
+ r\ncamp.  The only problem is that there is never enough to go\naround\,
+  making for an elitist experience that only the lucky few\nget to enjoy.
+ \n\nUntil now!!!\n\nJoin us as we scale crème brûlée production to epic 
+ proportions.\nWe will discuss the challenges we encountered as we tried 
+ to\nautomate as much of the process as we could.\n\nLaugh at our failure
+ s\, and taste our success.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/13
+SUMMARY:Let Them Eat Crème Brûlée! - Taylor Streetman\, Jacob Graves
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T173000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T163000
+DTSTAMP;VALUE=DATE-TIME:20180606T061519Z
+UID:dfa83f0c-3cbe-46fd-9bf7-2e4dc6f7e842@frab.toorcon.net
+DESCRIPTION:This year our long time friend of the conference and badass h
+ acker Richard Johnson will be organizing and MC'ing the lightning talks!
+  If you are interested in presenting one\, make sure to get in contact w
+ ith Rich to get included by emailing richinseattle at gmail dot com\, or
+  contacting him through the https://undercurrents.io BBS.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/83
+SUMMARY:Lightning Talks! - 
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T195000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T190000
+DTSTAMP;VALUE=DATE-TIME:20180529T033700Z
+UID:db09870d-b364-40b6-bb6a-27835ac6a2b6@frab.toorcon.net
+DESCRIPTION:"Liverstrong" is a motto coined by Infosec Crumudgeon\, BSide
+ s founder\, and all-around-wonderful soul Jack Daniel. Being Liverstrong
+  is not simply about the alcohol quantity in your evening or the B.A.C. 
+ levels in your bloodstream. No\, as you will learn in this workshop\, th
+ e Liverstrong lifestyle comes from diligent training\, sharp knowledge\,
+  and a discerning palate.\n\nThis workshop will step people through some
+  of the basics of booze\, distinguishing good offerings from poor ones\,
+  discerning flavor notes\, DIY liquor hacks\, and of course demonstratin
+ g the creation of outstanding cocktails. Just like last year\, audience 
+ participation will encouraged!
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/37
+SUMMARY:Liverstrong - Deviant Ollam
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T115000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T110000
+DTSTAMP;VALUE=DATE-TIME:20180529T033445Z
+UID:d0379e6d-254d-4e4a-8c81-6ed49cebe1a3@frab.toorcon.net
+DESCRIPTION:Unlike software\, the basic language of hardware -- physics -
+ - has not changed since the beginning of time as we know it. The notion 
+ that "hardware is hard" is more a function of society's changing mores a
+ round intellectual freedom\, ownership norms\, and economic values. Duri
+ ng the dot-com boom of the 90's\, the best and brightest shelved their s
+ oldering irons in favor of PHP and CSS. The West largely shed its electr
+ onics manufacturing base to Asia\, while lobbyists pushed laws that crim
+ inalized exploration and reinforced IP monopolies. Now\, we walk astonis
+ hed through the streets of Shenzhen and marvel at their magical supply c
+ hain. Ironically\, nothing fundamental has changed about hardware in the
+  past 30 years -- we're still building CPUs using CMOS\, systems using c
+ opper on FR-4\, exchanging data on the same wavelengths\, albeit with be
+ tter modulation and a whole lot more patents. What we've forgotten isn't
+  hardware -- what we've forgotten is what it's like to have the freedom 
+ to explore and innovate in hardware. If we forget the origins of the hac
+ ker ethos\; if we don't fight to bring back these freedoms: we ultimatel
+ y risk surrendering control over the very hardware that runs our daily l
+ ives.\n
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/24
+SUMMARY:Making and Breaking Hardware - bunnie
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T160000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T120000
+DTSTAMP;VALUE=DATE-TIME:20180606T050759Z
+UID:60b26158-7ccc-4fd0-826f-919ace22b279@frab.toorcon.net
+DESCRIPTION:<p>Pitch ideas\, form teams\, and build a cool game or app of
+  your own design! No experience necessary! (Targeted to younger Toorcon 
+ attendees\, but anyone is welcome to attend.)</p>
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/19
+SUMMARY:Mini CodeDay (Kids Workshop) - Tyler Menezes
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T150000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T120000
+DTSTAMP;VALUE=DATE-TIME:20180601T033450Z
+UID:80b62efd-fd5c-4c4f-88a6-f7d9f2062bee@frab.toorcon.net
+DESCRIPTION:Ever wanted to monogram your wooden goods but can’t justify t
+ he expense of a custom branding iron\, an indistinguishable effect can b
+ e achieved by applying a strong solution of ammonium chloride\, for inst
+ ance using a foam rubber stamp\, followed by relatively mild heat.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/57
+SUMMARY:Monogram Drink Coaster with OlyMEGA - Alan\, Zach
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180620T205000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180620T200000
+DTSTAMP;VALUE=DATE-TIME:20180529T032942Z
+UID:1a188b93-cc1c-47b2-8569-b8e6a8531155@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/45
+SUMMARY:Movie Showing: Hackers - David Hulton
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T205000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T200000
+DTSTAMP;VALUE=DATE-TIME:20180529T033907Z
+UID:bd0ebcd0-fae6-4d25-b27c-ccea6edcbe79@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/48
+SUMMARY:Movie Showing: Real Genius - David Hulton
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T205000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T200000
+DTSTAMP;VALUE=DATE-TIME:20180529T033843Z
+UID:a033649c-2566-4ff1-9bb0-32fe525ae446@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/46
+SUMMARY:Movie Showing: War Games - David Hulton
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T125000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T120000
+DTSTAMP;VALUE=DATE-TIME:20180529T033147Z
+UID:0f0823f0-cdcf-4730-8e78-fcd22fc40bd6@frab.toorcon.net
+DESCRIPTION:Have you ever wanted an FEG-SEM but were worried about coming
+  up with thousands of dollars to replace the electron emitter every year
+ ? Here is my method for making atomically sharp tungsten electron emitte
+ rs at your hackerspace using simple tools.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/8
+SUMMARY:Nanofabrication at home - Rob Flickenger
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T110000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T103000
+DTSTAMP;VALUE=DATE-TIME:20180529T192707Z
+UID:055a9349-c729-4b78-a153-e387c9ec0df5@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/62
+SUMMARY:Opening Remarks - 
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T220000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T210000
+DTSTAMP;VALUE=DATE-TIME:20180604T172227Z
+UID:62505095-24b1-4aa6-a2fd-ba03d7e939dc@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/76
+SUMMARY:Origami DJ - 
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T220000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T210000
+DTSTAMP;VALUE=DATE-TIME:20180606T061942Z
+UID:bfecdf12-3259-4e0e-a558-f439158842b6@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/84
+SUMMARY:Origami DJ - 
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T132000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T130000
+DTSTAMP;VALUE=DATE-TIME:20180604T172737Z
+UID:e5b5bc64-d06d-49db-98a1-8951e6f2d16a@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/78
+SUMMARY:Oscilloscope Music - 
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T160000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T140000
+DTSTAMP;VALUE=DATE-TIME:20180606T050723Z
+UID:6c320f32-14fc-4656-957e-b08563764a98@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/79
+SUMMARY:Oscilloscope Music Workshop - 
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T151500
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T131500
+DTSTAMP;VALUE=DATE-TIME:20180604T173213Z
+UID:977fbad0-2e67-4735-b94a-efa729160f4b@frab.toorcon.net
+DESCRIPTION:Make Your Own Drawstring Bag/Backpack
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/42
+SUMMARY:Out of the Bag with OlyMEGA Members - Angela from OlyMEGA
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T173000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T153000
+DTSTAMP;VALUE=DATE-TIME:20180604T173218Z
+UID:56401d36-3c4d-4061-9903-03da96d4fa1a@frab.toorcon.net
+DESCRIPTION:This class will be about building your own hacking tools in t
+ he physical and software world. We will be focusing on building the P4wn
+ P1 on a raspi zero and using a hat to give you direct connect to usb wit
+ hout odd cables. We will be discussing the evolution of tools and how to
+  add a papyrus e-ink display for more functionality. Software from P4wnP
+ 1 creator mame82 will be used for this class. https://github.com/mame82/
+ P4wnP1
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/59
+SUMMARY:P4wnP1 build - Jack\, ThatOneCoug
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T150000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T130000
+DTSTAMP;VALUE=DATE-TIME:20180614T055725Z
+UID:01ff1346-5034-41b5-a3df-32007c9a1d89@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/85
+SUMMARY:Pride Parade! - 
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T185000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T180000
+DTSTAMP;VALUE=DATE-TIME:20180529T033218Z
+UID:7212b722-c868-4dc2-8dfe-73dd8846e82e@frab.toorcon.net
+DESCRIPTION:Since last Toorcamp\, we've made major advances in building a
+  robot sail boat capable of crossing oceans and circumnavigating the wor
+ ld. As a warm-up\, we're going to enter the Microtransat trans-Atlantic 
+ autonomous sailboat race. 
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/10
+SUMMARY:Project Ladon (fka Hackerboat) Sail On - Pierce Nichols
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T195000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T190000
+DTSTAMP;VALUE=DATE-TIME:20180608T212237Z
+UID:23b8da4f-f198-4c4f-a7bd-8a07050b75d2@frab.toorcon.net
+DESCRIPTION:Learn the one 'secret' that all pop stars use to sing their s
+ ongs higher than normal people.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/15
+SUMMARY:Sing Like a Pop Star - Franklin Hu
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T145000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T140000
+DTSTAMP;VALUE=DATE-TIME:20180529T033418Z
+UID:9a4a956e-b953-446a-9349-9fcc8171f33b@frab.toorcon.net
+DESCRIPTION:<p>Most people don't care how computers work\, which leads to
+  questionable legislation and a cultural disregard for privacy and secur
+ ity. In this talk we explore tricks to get "normal" people to take an in
+ terest in tech\, start to think like a hacker\, and join our communities
+ .</p>
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/20
+SUMMARY:Social Engineering Tech Education - Tyler Menezes
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T155000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T150000
+DTSTAMP;VALUE=DATE-TIME:20180605T192128Z
+UID:20a68e7b-add6-4f75-a54c-c2036c74c13a@frab.toorcon.net
+DESCRIPTION:Come build your dream solar power panel to do whatever you wa
+ nt.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/80
+SUMMARY:Solar Cell workshop - Day 1 - Franklin Hu
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T135000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T130000
+DTSTAMP;VALUE=DATE-TIME:20180605T065444Z
+UID:4039c88f-52cf-40a5-91c2-c3eb33ae5e2d@frab.toorcon.net
+DESCRIPTION:Come build your dream solar power panel to do whatever you wa
+ nt.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/14
+SUMMARY:Solar Cell workshop - Day 2 - Franklin Hu
+LOCATION:Maker Stage
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T233000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T220000
+DTSTAMP;VALUE=DATE-TIME:20180604T171608Z
+UID:39a0af2d-1036-449a-82d6-8241876db282@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/73
+SUMMARY:Spiegel MC - 
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T115000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T110000
+DTSTAMP;VALUE=DATE-TIME:20180529T033521Z
+UID:e6ccff81-6894-413d-89cb-01efdf440e6f@frab.toorcon.net
+DESCRIPTION:LangSec\, or language-theoretic security\, has very little to
+  do with the language in which you write your software and everything to
+  do with how that software deals with its input and output.  Let's talk 
+ about how to apply it to a few real-world problems\, including TLS certi
+ ficates\, document formats\, and even hardware design!
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/27
+SUMMARY:Sub-Turing Machines: The End of Unknown Unknowns - Falcon Darksta
+ r Momot
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T155000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T150000
+DTSTAMP;VALUE=DATE-TIME:20180529T033457Z
+UID:2f17aa26-9bb1-4d2f-93ff-86ef8bb14af6@frab.toorcon.net
+DESCRIPTION:What do a flock of starlings\, a colony of warrior ants\, and
+  a hundred-person flash mob all have in common? Swarm intelligence\, the
+  behavior of decentralized systems\, is a concept that we can apply to h
+ uman systems to unlock their potential. Swarming methodologies teach a g
+ roup of individuals what to do\, where to go\, and how to operate as a t
+ eam.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/25
+SUMMARY:Swarm Intelligence and Augmented Reality - Pongolyn
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T155000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T153000
+DTSTAMP;VALUE=DATE-TIME:20180606T060051Z
+UID:9d9e3076-3524-493e-9f46-865d02412549@frab.toorcon.net
+DESCRIPTION:Pause for a second and consider the immense amount of incredi
+ bly sensitive personal data that flows through browsers. Sure we have th
+ ings like the same origin policy that partitions browser data between di
+ fferent origins and helps protect us from malicious sites\, but what abo
+ ut malicious browsers? In the modern era he who controls the browser is 
+ king\, and if that party doesn't have your best interests in mind then t
+ here isn't much to be said about the sanctity of your data. Enter the Cõ
+ c Cõc browser. We stumbled upon this browser through some unrelated rese
+ arch and after a small amount of digging our spidey senses were tingling
+ . In this brief talk we will cover some of the more salient points relat
+ ed to the security implications of using the Cõc Cõc browser that we fou
+ nd and the directions in which we'd like to dig deeper. While we don't m
+ ake the claim that the browser is intentionally malicious\, there are so
+ me oddities that deserve further analysis. Through this talk we aim to b
+ oth answer the "why" behind some of these oddities and inspire other fol
+ ks to dive in as well.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/29
+SUMMARY:The Big\, Bad\, Cõc Cõc - lavalamp\, Marc Newlin
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T142000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T140000
+DTSTAMP;VALUE=DATE-TIME:20180606T060037Z
+UID:612c40e4-a148-433a-bf88-814a6602c344@frab.toorcon.net
+DESCRIPTION:How do people actually think? This talk will argue that langu
+ age is intimately associated with how we think and that current AI appro
+ aches are grossly misguided.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/16
+SUMMARY:The Currency of Thought - Franklin Hu
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T175000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T170000
+DTSTAMP;VALUE=DATE-TIME:20180529T033808Z
+UID:386f1838-821e-4e44-a8f6-a0d92856188f@frab.toorcon.net
+DESCRIPTION:This presentation will shed some light on the threat modeling
+  process for applications\, dip into some network threat modeling\, and 
+ hopefully give you some tools to make threat modeling easier.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/43
+SUMMARY:Threat Modeling - Justin G
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T134000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T133000
+DTSTAMP;VALUE=DATE-TIME:20180606T061542Z
+UID:0c5cbcf9-9179-4e68-a676-af7a6834fb0b@frab.toorcon.net
+DESCRIPTION:
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/52
+SUMMARY:Titanium Chef - David Hulton
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T182000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T173000
+DTSTAMP;VALUE=DATE-TIME:20180606T064448Z
+UID:d5f9833a-8a4c-40b0-9c4b-72437c940b7b@frab.toorcon.net
+DESCRIPTION:You are cordially invited to the second biennial ToorCamp Stu
+ pid Hackathon. Compete to create the most useless\, dangerous and/or var
+ iously unwise things you can imagine.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/82
+SUMMARY:ToorCamp Stupid Hackathon - Moonrock
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T195000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T190000
+DTSTAMP;VALUE=DATE-TIME:20180606T064640Z
+UID:0e4a5c51-4363-48d8-a380-a2c1f36f6045@frab.toorcon.net
+DESCRIPTION:You are cordially invited to the second biennial ToorCamp Stu
+ pid Hackathon. The Stupid Hackathon presents an opportunity to create th
+ e most useless\, dangerous and/or variously unwise things you can imagin
+ e.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/51
+SUMMARY:ToorCamp Stupid Hackathon - Moonrock
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T185000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180621T180000
+DTSTAMP;VALUE=DATE-TIME:20180529T033058Z
+UID:b5729221-9c0d-4a1d-a592-c04d103faf19@frab.toorcon.net
+DESCRIPTION:Stratva's recent heatwave exposure has raised consciousness o
+ f metadata and it's role in privacy.   Come for a exploration of what OS
+ INT can do for identifying critical infrastructure vulnerabilities and t
+ he implications to public safety.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/5
+SUMMARY:Using Publically Available Data to Find Bad and Do Good. - DickTe
+ mple
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T120000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T100000
+DTSTAMP;VALUE=DATE-TIME:20180608T231938Z
+UID:5c5fbb3c-ff50-4ced-b03e-36b464a2aa8e@frab.toorcon.net
+DESCRIPTION:Did you know you can run a gasoline generator off of wood? Co
+ me see this simple design and watch it in operation.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/17
+SUMMARY:Woodgas Demonstration Project - Franklin Hu
+LOCATION:Around Camp
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T155000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T150000
+DTSTAMP;VALUE=DATE-TIME:20180529T033648Z
+UID:97028675-8486-4522-a45b-02882e8eb04f@frab.toorcon.net
+DESCRIPTION:People to go into tech tend to want to focus on the concrete 
+ - but the first step in hacking a system is understanding it. You are on
+ ly human - and all your friends are only human\, too. If you want to mak
+ e great things\, you're going to need a team.\n\nGood management is lear
+ ning how to program and load-balance people\, and that includes self-car
+ e. Let's talk about how to reverse-engineer yourself\, so you can genuin
+ ely care for yourself (and others) so that you're not constantly segfaul
+ ting.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/36
+SUMMARY:You Are Only Human - w0z
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T163000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T160000
+DTSTAMP;VALUE=DATE-TIME:20180608T212230Z
+UID:1192ee48-1890-4ea8-bb19-ccf3c65e9dcd@frab.toorcon.net
+DESCRIPTION:Threat intelligence is the new (old) hotness.  Brief but scin
+ tillating history of threat intelligence in cyber and how your mother is
+  involved.  Even briefer (but still as interesting) discussion of the bu
+ siness of the TI industry.  Workshop class covers the Three Laws of Oper
+ ationalizing TI.  (Stop\, Collaborate and Listen\, thanks Vanilla Ice.)
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/7
+SUMMARY:You Mom's New Hotness: Threat Intelligence - Katie Kusjanovic
+LOCATION:Music & Events
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T175000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180622T170000
+DTSTAMP;VALUE=DATE-TIME:20180529T033355Z
+UID:17da71b5-adaa-46fd-a6f5-e5c998410ab4@frab.toorcon.net
+DESCRIPTION:gr-iridium is free software to capture and demodulate data fr
+ om the Iridium satellite network. This talk dives under the hood of gr-i
+ ridium and shows how it can capture and demodulate 1000 frames per secon
+ d on an 8 year old quad core machine.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/18
+SUMMARY:gr-iridium: Under the hood - schneider
+LOCATION:Prime Dome
+END:VEVENT
+BEGIN:VEVENT
+DTEND;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T182000
+DTSTART;TZID=America/Los_Angeles;VALUE=DATE-TIME:20180623T173000
+DTSTAMP;VALUE=DATE-TIME:20180604T173221Z
+UID:38494143-5da4-440a-a712-23898fd74a05@frab.toorcon.net
+DESCRIPTION:Micropython Hardware class using the ESP8266 (nodeMcu package
+ ).\nWe'll wirelessly edit and launch python scripts that test ultrasonic
+  distance sensors\, spit out letters and numbers on a cute 0.96" OLED di
+ splay\, and radiate WS2812 LEDs.
+URL:https://frab.toorcon.net/en/toorcamp2018/public/events/31
+SUMMARY:slinging micropython & OLED - hydronics
+LOCATION:Music & Events
+END:VEVENT
+END:VCALENDAR
